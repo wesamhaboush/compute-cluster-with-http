@@ -1,0 +1,14 @@
+{
+  "name": "clustering-full",
+  "version": "1.0.0",
+  "description": "trying a computer cluster configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wesam haboush",
+  "license": "ISC",
+  "dependencies": {
+    "compute-cluster": "0.0.9"
+  }
+}
